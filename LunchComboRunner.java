@@ -25,5 +25,5 @@ public class LunchComboRunner
 /*
 Cheese Burger / Coleslaw / Orange Soda Trio 4.75
 Club Sandwich / Spinach Salad / Cappuccino Trio 6.25
-Press any key to continue . . .
+Press any key to continue . . . 
 */

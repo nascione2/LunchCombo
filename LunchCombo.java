@@ -3,6 +3,7 @@ public class LunchCombo implements MenuItem
 	private Sandwich sandwich;
 	private Salad salad;
 	private Drink drink;
+	
 
 	public LunchCombo(Sandwich aSandwich, Salad aSalad, Drink aDrink)
 	{
